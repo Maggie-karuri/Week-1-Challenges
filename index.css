@@ -1,0 +1,33 @@
+body{
+    display: block;
+    justify-content:flex-end;
+    margin: 0%;
+    background-color: aqua;
+    text-align: center;
+}
+
+button {
+    background-color: beige;
+    cursor: pointer;
+    color: black;
+}
+#gradeResult {
+    font-style: italic;
+    font-size: medium;
+    color: rgb(11, 12, 14);
+    font-weight: bold;
+}
+.gif {
+    margin-top: inherit;
+    max-width: 20%;
+
+}
+.container {
+    text-align: center;
+}
+.form-container {
+    margin-bottom: 20px;
+}
+button:hover{
+    background-color: chartreuse;
+}
