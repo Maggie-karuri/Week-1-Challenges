@@ -1,0 +1,6 @@
+[submodule "Week-1-Challenges"]
+	path = Week-1-Challenges
+	url = https://github.com/Maggie-karuri/Week-1-Challenges
+[submodule "Week-1-Challenge-2"]
+	path = Week-1-Challenge-2
+	url = /Development/code/phase-1-completing-assignments-with-codegrade/Code-challenge-Wk-1/Week-1-Challenge-2
