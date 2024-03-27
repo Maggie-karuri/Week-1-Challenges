@@ -28,9 +28,9 @@ Calculation of deductions:
     NHIF Deductions
     NSSF Deductions
 The output is the net salary after deductions.
-/* The rates used are as shown below: 
+The rates used are as shown below: 
 Tax Rates:
-
+```
 Category    Min	    Max	    Rate/Amount
 Tax Rates	0	    24,000	10%
             24,001	32,333	15%
@@ -38,8 +38,9 @@ Tax Rates	0	    24,000	10%
             40,384	48,333	25%
             48,334	60,000	30%
             60,001	Infinity35%
+```
 NHIF Rates:
-
+```
 Category	Min	Max	R       ate/Amount
 NHIF Rates	0	    5,999	Ksh 150
             6,000	7,999	Ksh 300
@@ -58,12 +59,13 @@ NHIF Rates	0	    5,999	Ksh 150
             80,000	89,999	Ksh 1600
             90,000	99,999	Ksh 1700
             100,000	InfinityKsh 1800
+```
 NSSF Rates:
-
+```
 Category	Range Min	Range Max	Rate/Amount
 Employee			                6%
 Employer			                6%
-*/
+```
 
 ## setup Instructions
 These challenges can be accessed via respective url:
